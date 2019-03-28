@@ -114,7 +114,6 @@ function draw(){
   keyboard.amp(.05);
   keyboard.freq(230);
   }
-
 }
 
 function mousePressed()
